@@ -1,2 +1,2 @@
 # ai-mspackman-rachid
-implementation of AI methods in MS PACMAN Agents
+Implementation of AI methods in MS PACMAN Agents
